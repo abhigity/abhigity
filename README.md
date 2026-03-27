@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abhimanyu 😊 👋
 ### Backend Architect | Spring Boot & Microservices Specialist
 
 I build scalable, distributed systems using the **Spring Ecosystem**. My focus is on creating resilient microservices, optimizing JVM performance, and implementing robust API gateways.
@@ -29,8 +28,8 @@ I build scalable, distributed systems using the **Spring Ecosystem**. My focus i
 
 ## 📊 My GitHub Metrics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhigity&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigity&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 
 ---
