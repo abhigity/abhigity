@@ -47,7 +47,49 @@ I build scalable, distributed systems using the **Spring Ecosystem**. My focus i
 [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF9400)](YOUR_PORTFOLIO_URL)
 
 
+---
 
+## 🛠 Tech Stack & Ecosystem
+
+### 💻 Backend Engineering (Java & Spring Specialist)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
+</p>
+
+### 🗄️ Database & Persistence
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JPA%20/%20JDBC-59666C?style=for-the-badge" alt="JPA/JDBC" />
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/ReactJS-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
+
+### ☁️ Cloud & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📈 Proficiency Visualization
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigity&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Skill Cloud" width="400" />
+</p>
+
+---
 
 
 
